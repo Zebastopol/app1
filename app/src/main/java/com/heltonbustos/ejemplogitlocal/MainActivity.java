@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         btnDespedir.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "CHAO MUNDO!", Toast.LENGTH_SHORT).show();
+
             }
         });
     }
