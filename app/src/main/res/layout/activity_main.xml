@@ -22,9 +22,10 @@
         android:id="@+id/btnDespedir"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="204dp"
         android:text="Despedir"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnSaludar" />
 </androidx.constraintlayout.widget.ConstraintLayout>
